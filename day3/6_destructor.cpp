@@ -37,7 +37,7 @@ public:
 
 int main()
 {
-    Parent p1("Yashwanth");
+    Parent p1("pavan");
     p1.display();
     return 0;
 }
